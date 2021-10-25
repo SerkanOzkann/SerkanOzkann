@@ -4,6 +4,8 @@
   
  <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SerkanOzkann&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
  
+ <br />
+ 
 ### Connect With Me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/SerkanOzkann) 
