@@ -1,16 +1,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SerkanOzkann&show_icons=true">
 
 # Hello, I'm Serkan Ozkan! 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanOzkann)](https://github.com/SerkanOzkann/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SerkanOzkann" alt="SerkanOzkann" /> </p>
-
-
-
-
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanOzkann)](https://github.com/SerkanOzkann/github-readme-stats)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/SerkanOzkann) 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-%C3%B6zkan-a214a1221/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ozkannserkan)
