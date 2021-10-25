@@ -2,7 +2,7 @@
 
 <img align='right'  src="https://github-readme-stats.vercel.app/api?username=SerkanOzkann&show_icons=true&theme=radical&hide_rank=false">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SerkanOzkann&show_icons=true&theme=radical&hide_rank=false" alt="SerkanOzkann" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SerkanOzkann" alt="SerkanOzkann" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanOzkann)](https://github.com/SerkanOzkann/github-readme-stats)
 
