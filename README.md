@@ -3,6 +3,7 @@
 # Hello, I'm Serkan Ozkan! 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SerkanOzkann" alt="SerkanOzkann" /> </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanOzkann)](https://github.com/SerkanOzkann/github-readme-stats)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/SerkanOzkann) 
