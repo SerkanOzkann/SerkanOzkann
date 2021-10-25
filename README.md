@@ -1,4 +1,4 @@
-<img align='right'  src="https://github-readme-stats.vercel.app/api?username=SerkanOzkann&show_icons=true&theme=radical&hide_rank=false">
+<img align='middle'  src="https://github-readme-stats.vercel.app/api?username=SerkanOzkann&show_icons=true&theme=radical&hide_rank=false">
 
 # Hello, I'm Serkan Ozkan! 
 
