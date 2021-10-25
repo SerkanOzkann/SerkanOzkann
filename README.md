@@ -1,8 +1,8 @@
 # Hello, I'm Serkan Ozkan! 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SerkanOzkann" alt="SerkanOzkann" /> </p>
+<p height="180em" align="center"> <img src="https://komarev.com/ghpvc/?username=SerkanOzkann" alt="SerkanOzkann" /> </p>
 
-<img align='center'  src="https://github-readme-stats.vercel.app/api?username=SerkanOzkann&show_icons=true&theme=radical&hide_rank=false">
+<img height="180em" align='center'  src="https://github-readme-stats.vercel.app/api?username=SerkanOzkann&show_icons=true&theme=radical&hide_rank=false">
 
 
 
