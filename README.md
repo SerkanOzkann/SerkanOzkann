@@ -1,10 +1,11 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SerkanOzkann&show_icons=true">
 
 # Hello, I'm Serkan Ozkan! 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanOzkann)](https://github.com/SerkanOzkann/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SerkanOzkann" alt="SerkanOzkann" /> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanOzkann)](https://github.com/SerkanOzkann/github-readme-stats)
+
 
 
 
