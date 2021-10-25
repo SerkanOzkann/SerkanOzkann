@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=SerkanOzkann&show_icons=true">
 
-<!--
-**SerkanOzkann/SerkanOzkann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, ben Serkan Ozkan! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SerkanOzkann" alt="SerkanOzkann" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-%C3%B6zkan-a214a1221/)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ozkannserkan)
+[![Mail Badge](https://img.shields.io/badge/serkanozkann1903@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:serkanozkann1903@gmail.com)](mailto:serkanozkann1903@gmail.com)
