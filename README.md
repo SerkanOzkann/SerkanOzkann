@@ -19,3 +19,4 @@
 [![Mail Badge](https://img.shields.io/badge/serkanozkann1903@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:serkanozkann1903@gmail.com)](mailto:serkanozkann1903@gmail.com)
 
 <br />
+
